@@ -1,0 +1,2 @@
+# jnt-comments
+for blog
